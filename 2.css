@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: tahoma;
+  
+
+}
+body{
+    background: #2306c7 no-repeat center center fixed;
+    background-size: cover;
+}
+.card{
+    height: 420px;
+    width: 900px;
+    background-color: rgb(4, 12, 101);
+    position: absolute;
+    margin: auto;
+    left: -260px;
+    right: 300px;
+    top: 0;
+    bottom: 0;
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.01);
+    box-shadow: 20px 20px 22px rgb(0, 0, 0, 0.2);
+    border-radius: 8px;
+    
+    color: aliceblue;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+h4{
+   
+  
+    font-size: 12px;
+    text-align: right;
+    margin: 25px 35px 10px 0;
+   
+}
+p{
+    text-align: right;
+    margin: 25px 35px 20px 0;
+    
+    
+}
+hr{
+    display: block;
+    height: 1px;
+    width: 2000px;
+    text-align: right;
+}
+
